@@ -131,7 +131,7 @@ body{
 }
 
 #hero{
-    background-image: url(background_image_hero.jpg);
+    background-image: url(src/background_image_hero.jpg);
     height: 90vh;
     width: 100%;
     background-position: top 25% right o;
@@ -262,7 +262,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(bg1.jpeg);
+    background-image: url(src/bg1.jpeg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -299,7 +299,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(bg2.jpg);
+    background-image: url(src/bg2.jpg);
     min-width: 620px;
     height: 50vh;
     background-size: cover;
@@ -308,7 +308,7 @@ body{
     transition: 0.3s ease;
 }
 #sm-banner .banner-box2{
-    background-image: url(bg3.png);
+    background-image: url(src/bg3.png);
 }
 
 #sm-banner h4{
@@ -345,7 +345,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(bg4.png);
+    background-image: url(src/bg4.png);
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -354,10 +354,10 @@ body{
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url(bg6.png);
+    background-image: url(src/bg6.png);
 }
 #banner3 .banner-box3{
-    background-image: url(bg5.png);
+    background-image: url(src/bg5.png);
 }
 #banner3 h2{
     color:white ;
@@ -375,7 +375,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(bg7.jpeg);
+    background-image: url(src/bg7.jpeg);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
