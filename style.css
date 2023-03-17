@@ -563,8 +563,12 @@ font-weight: 600;
     line-height: 25px;
 }
 
-
-
+.white{
+    color: white;
+}
+h4{
+    color: white;
+}
 
 #page-header.blog-header{
     background-image: url(src/book.png);
