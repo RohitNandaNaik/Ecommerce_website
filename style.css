@@ -567,7 +567,7 @@ font-weight: 600;
 
 
 #page-header.blog-header{
-    background-image: url(/book.png);
+    background-image: url(src/book.png);
 
 }
 
@@ -637,7 +637,7 @@ font-weight: 600;
 }
 
 #page-header.about-header{
-    background-image: url(/bg.png);
+    background-image: url(src/bg.png);
 }
 
 #about-head{
